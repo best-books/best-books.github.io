@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>bestbooks.dev</title>
+  <title>Best Books</title>
   
-  <subtitle>subtitle</subtitle>
+  <subtitle>The best Programming books</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://bestbooks.dev/"/>
+  <link href="https://bestbooks.dev/"/>
   <updated>2020-08-08T11:26:39.094Z</updated>
-  <id>http://bestbooks.dev/</id>
+  <id>https://bestbooks.dev/</id>
   
   <author>
     <name>南洋布衣</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>编程</title>
-    <link href="http://bestbooks.dev/best-programming-books/"/>
-    <id>http://bestbooks.dev/best-programming-books/</id>
+    <link href="https://bestbooks.dev/best-programming-books/"/>
+    <id>https://bestbooks.dev/best-programming-books/</id>
     <published>2020-08-08T02:54:59.000Z</published>
     <updated>2020-08-08T11:26:39.094Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Python Books</title>
-    <link href="http://bestbooks.dev/best-python-books/"/>
-    <id>http://bestbooks.dev/best-python-books/</id>
+    <link href="https://bestbooks.dev/best-python-books/"/>
+    <id>https://bestbooks.dev/best-python-books/</id>
     <published>2020-08-08T02:52:26.000Z</published>
     <updated>2020-08-08T08:42:08.899Z</updated>
     
@@ -58,14 +58,14 @@
     
     
     
-      <category term="python" scheme="http://bestbooks.dev/tags/python/"/>
+      <category term="python" scheme="https://bestbooks.dev/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>Javascript</title>
-    <link href="http://bestbooks.dev/best-javascript-books/"/>
-    <id>http://bestbooks.dev/best-javascript-books/</id>
+    <link href="https://bestbooks.dev/best-javascript-books/"/>
+    <id>https://bestbooks.dev/best-javascript-books/</id>
     <published>2020-08-07T02:54:37.000Z</published>
     <updated>2020-08-08T08:11:02.592Z</updated>
     
@@ -82,16 +82,16 @@
     
     
     
-      <category term="javascript" scheme="http://bestbooks.dev/tags/javascript/"/>
+      <category term="javascript" scheme="https://bestbooks.dev/tags/javascript/"/>
     
-      <category term="language" scheme="http://bestbooks.dev/tags/language/"/>
+      <category term="language" scheme="https://bestbooks.dev/tags/language/"/>
     
   </entry>
   
   <entry>
     <title>创业</title>
-    <link href="http://bestbooks.dev/best-startup-books/"/>
-    <id>http://bestbooks.dev/best-startup-books/</id>
+    <link href="https://bestbooks.dev/best-startup-books/"/>
+    <id>https://bestbooks.dev/best-startup-books/</id>
     <published>2020-08-06T02:54:47.000Z</published>
     <updated>2020-08-08T09:29:49.179Z</updated>
     
@@ -112,8 +112,8 @@
   
   <entry>
     <title>iOS Books</title>
-    <link href="http://bestbooks.dev/best-ios-books/"/>
-    <id>http://bestbooks.dev/best-ios-books/</id>
+    <link href="https://bestbooks.dev/best-ios-books/"/>
+    <id>https://bestbooks.dev/best-ios-books/</id>
     <published>2020-01-01T16:39:01.000Z</published>
     <updated>2020-08-08T08:44:30.985Z</updated>
     
@@ -127,8 +127,8 @@
   
   <entry>
     <title>Android Books</title>
-    <link href="http://bestbooks.dev/best-android-books/"/>
-    <id>http://bestbooks.dev/best-android-books/</id>
+    <link href="https://bestbooks.dev/best-android-books/"/>
+    <id>https://bestbooks.dev/best-android-books/</id>
     <published>2020-01-01T12:34:56.000Z</published>
     <updated>2020-08-08T09:45:24.872Z</updated>
     
@@ -142,8 +142,8 @@
   
   <entry>
     <title>Linux Books</title>
-    <link href="http://bestbooks.dev/best-linux-books/"/>
-    <id>http://bestbooks.dev/best-linux-books/</id>
+    <link href="https://bestbooks.dev/best-linux-books/"/>
+    <id>https://bestbooks.dev/best-linux-books/</id>
     <published>2020-01-01T12:34:56.000Z</published>
     <updated>2020-08-08T09:44:17.287Z</updated>
     
@@ -157,8 +157,8 @@
   
   <entry>
     <title>Java Books</title>
-    <link href="http://bestbooks.dev/best-java-books/"/>
-    <id>http://bestbooks.dev/best-java-books/</id>
+    <link href="https://bestbooks.dev/best-java-books/"/>
+    <id>https://bestbooks.dev/best-java-books/</id>
     <published>2020-01-01T12:34:56.000Z</published>
     <updated>2020-08-08T08:49:24.358Z</updated>
     
@@ -172,8 +172,8 @@
   
   <entry>
     <title>Ruby Books</title>
-    <link href="http://bestbooks.dev/best-ruby-books/"/>
-    <id>http://bestbooks.dev/best-ruby-books/</id>
+    <link href="https://bestbooks.dev/best-ruby-books/"/>
+    <id>https://bestbooks.dev/best-ruby-books/</id>
     <published>2020-01-01T12:34:56.000Z</published>
     <updated>2020-08-08T09:45:38.126Z</updated>
     
@@ -187,8 +187,8 @@
   
   <entry>
     <title>more</title>
-    <link href="http://bestbooks.dev/more-books/"/>
-    <id>http://bestbooks.dev/more-books/</id>
+    <link href="https://bestbooks.dev/more-books/"/>
+    <id>https://bestbooks.dev/more-books/</id>
     <published>2020-01-01T01:33:31.000Z</published>
     <updated>2020-08-08T09:44:17.299Z</updated>
     

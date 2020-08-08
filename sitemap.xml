@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://bestbooks.dev/best-programming-books/</loc>
+    <loc>https://bestbooks.dev/best-programming-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/best-ruby-books/</loc>
+    <loc>https://bestbooks.dev/best-ruby-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/best-android-books/</loc>
+    <loc>https://bestbooks.dev/best-android-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/more-books/</loc>
+    <loc>https://bestbooks.dev/more-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/best-linux-books/</loc>
+    <loc>https://bestbooks.dev/best-linux-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/best-startup-books/</loc>
+    <loc>https://bestbooks.dev/best-startup-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/best-java-books/</loc>
+    <loc>https://bestbooks.dev/best-java-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/best-ios-books/</loc>
+    <loc>https://bestbooks.dev/best-ios-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/best-python-books/</loc>
+    <loc>https://bestbooks.dev/best-python-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/best-javascript-books/</loc>
+    <loc>https://bestbooks.dev/best-javascript-books/</loc>
     
     <lastmod>2020-08-08</lastmod>
     
@@ -73,7 +73,7 @@
   
 
   <url>
-    <loc>http://bestbooks.dev/</loc>
+    <loc>https://bestbooks.dev/</loc>
     <lastmod>2020-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -81,21 +81,21 @@
 
   
   <url>
-    <loc>http://bestbooks.dev/tags/javascript/</loc>
+    <loc>https://bestbooks.dev/tags/javascript/</loc>
     <lastmod>2020-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/tags/language/</loc>
+    <loc>https://bestbooks.dev/tags/language/</loc>
     <lastmod>2020-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://bestbooks.dev/tags/python/</loc>
+    <loc>https://bestbooks.dev/tags/python/</loc>
     <lastmod>2020-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
