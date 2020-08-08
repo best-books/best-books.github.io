@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>bestbooks.dev</title>
+  
+  <subtitle>subtitle</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://bestbooks.dev/"/>
+  <updated>2020-08-08T11:26:39.094Z</updated>
+  <id>http://bestbooks.dev/</id>
+  
+  <author>
+    <name>南洋布衣</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>编程</title>
+    <link href="http://bestbooks.dev/best-programming-books/"/>
+    <id>http://bestbooks.dev/best-programming-books/</id>
+    <published>2020-08-08T02:54:59.000Z</published>
+    <updated>2020-08-08T11:26:39.094Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-程序员修炼之道-The-Pragmatic-Programmer"><a href="#1-程序员修炼之道-The-Pragmatic-Programmer" class="headerlink" title="1 程序员修炼之道 (The Pragmatic Programmer)"></a>1 <a href="https://book.douban.com/subject/35006892/">程序员修炼之道</a> (The Pragmatic Programmer)</h2><img class="book-list-image" src="https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg"><ul><li>作者: David Thomas / Andrew Hunt</li></ul><blockquote><p>需求不清，是程序员面临的真正挑战，高手程序员重新定义了交付软件的价值到底是什么。<br>每次开发出来的软件交付给用户，它的价值不再只是把实现了某个功能的软件产品交付给用户，它更是探寻用户真实需求的催化剂。<br>催化剂是什么，它虽然不是我们需要的结果，但它却是促成结果的关键要素。<br><br>“完成大于完美”这句话，是程序员务实的体现。它让程序员别把目标放在结果上，只想着结果要完美，更重要的是过程，别光想着要做什么，还要知道怎样才能做到。<br>高手程序员，不是放弃了完美，而是用更快的速度更少的成本先完成，用真实的产品让用户反馈。</p></blockquote><h2 id="2-代码整洁之道-Clean-Code"><a href="#2-代码整洁之道-Clean-Code" class="headerlink" title="2 代码整洁之道 (Clean Code)"></a>2 <a href="https://book.douban.com/subject/4199741/">代码整洁之道</a> (Clean Code)</h2><img class="book-list-image" src="https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg"><ul><li>作者: Robert C·Martin</li></ul><blockquote><p>代码作为表达工具，需要好的“叙事”方法。有一些模糊的感觉被描述为准确的规则。<br>好像研一的时候看到计算机系老师的实例代码，我当时的反应是“行云流水”般的。<br>看到这本书才发现，这种“行云流水”不是随心所欲的发挥，也不是个人性格，而是规则，准确的对细节的规则的准确执行。<br>“Tell the story of system”。炸烈喜欢！</p></blockquote><h2 id="3-代码大全-Code-Complete"><a href="#3-代码大全-Code-Complete" class="headerlink" title="3 代码大全 (Code Complete)"></a>3 <a href="https://book.douban.com/subject/1477390/">代码大全</a> (Code Complete)</h2><img class="book-list-image" src="https://images-na.ssl-images-amazon.com/images/I/514Fchkr9WL._SX408_BO1,204,203,200_.jpg"><ul><li>作者: Robert C·Martin</li></ul><blockquote><p>前面一小半有点太过基础，适合初学者；中间关于测试，重构，调试，调优的几章把重点都点到了，但是还是需要去看相关的深入的书；<br>最后几张代码风格和程序员性格什么的有点凑字数占篇幅的嫌疑……书里有一些箴言和金句，但是必须自己在实际工作中有体会才能共鸣，<br>不可能出现“本来啥都不懂，看完那些指导就一下子明白了”。</p></blockquote><h2 id="4-重构-改善既有代码的设计-Refactoring"><a href="#4-重构-改善既有代码的设计-Refactoring" class="headerlink" title="4 重构:改善既有代码的设计 (Refactoring)"></a>4 <a href="https://book.douban.com/subject/4262627/">重构:改善既有代码的设计</a> (Refactoring)</h2><img class="book-list-image" src="https://images-na.ssl-images-amazon.com/images/I/41LBzpPXCOL._SX379_BO1,204,203,200_.jpg"><ul><li>作者: Martin Fowler</td></li></ul><blockquote><p>内容组织得完备妥当，写得比较中肯。<br>但其内容多是容易推导出来的，属于看与不看没有太大所谓的书。<br>怎么说，纵使有再多技巧，重构终归是体力活，各位注意身体。</p></blockquote><h2 id="5-深入浅出设计模式-Head-First-Design-Patterns"><a href="#5-深入浅出设计模式-Head-First-Design-Patterns" class="headerlink" title="5 深入浅出设计模式 (Head First Design Patterns)"></a>5 <a href="https://book.douban.com/subject/1400656/">深入浅出设计模式</a> (Head First Design Patterns)</h2><img class="book-list-image" src="https://images-na.ssl-images-amazon.com/images/I/61ZG-hATOeL._SX430_BO1,204,203,200_.jpg"><blockquote><p>设计模式的最佳入门书，对于新手而言，它比四人帮的书要好懂的多。通俗易懂，带来的副作用就是，废话真的不是一般的多。</p></blockquote><h2 id="6-人月神话-The-Mythical-Man-Month"><a href="#6-人月神话-The-Mythical-Man-Month" class="headerlink" title="6) 人月神话 (The Mythical Man-Month)"></a>6) 人月神话 (The Mythical Man-Month)</h2><img class="book-list-image" src="../images/rysh.jpg"><h2 id="7-代码整洁之道-程序员的职业素养-The-Clean-Coder"><a href="#7-代码整洁之道-程序员的职业素养-The-Clean-Coder" class="headerlink" title="7) 代码整洁之道: 程序员的职业素养 (The Clean Coder)"></a>7) 代码整洁之道: 程序员的职业素养 (The Clean Coder)</h2><img class="book-list-image" src="../images/dmzjzd.jpeg"><h2 id="8-修改代码的艺术-Working-Effectively-with-Legacy-Code"><a href="#8-修改代码的艺术-Working-Effectively-with-Legacy-Code" class="headerlink" title="8) 修改代码的艺术 (Working Effectively with Legacy Code)"></a>8) 修改代码的艺术 (Working Effectively with Legacy Code)</h2><img class="book-list-image" src="../images/xgdmdys.jpg"><blockquote><p>修改代码是每一位软件开发人员的日常工作。开发人员常常面对的现实是，即便是最训练有素的开发团队也会写出混乱的代码，而且系统的腐化程度也会日积月累。<br>本书是一部里程碑式的著作，针对大型的、无测试的遗留代码基，提供了从头到尾的方案，让你能够更有效地应付它们，将你的遗留代码基改善得具有更高性 能、更多功能、更好的可靠性和可控性。</p></blockquote><h2 id="9-设计模式-Design-Patterns"><a href="#9-设计模式-Design-Patterns" class="headerlink" title="9) 设计模式 (Design Patterns)"></a>9) 设计模式 (Design Patterns)</h2><img class="book-list-image" src="../images/refactor.jpg"><ul><li>客观讲，国内将设计模式的书写得也不错，更符合中国读者的阅读习惯。</li><li>相关推荐：<ul><li>《大话设计模式》</li><li>《设计模式之禅》</li></ul></li></ul><h2 id="10-程序员面试金典-Cracking-the-Coding-Interview"><a href="#10-程序员面试金典-Cracking-the-Coding-Interview" class="headerlink" title="10) 程序员面试金典 (Cracking the Coding Interview)"></a>10) 程序员面试金典 (Cracking the Coding Interview)</h2><img class="book-list-image" src="../images/cxymsjd.jpg"><ul><li>校招、换工作，刷题必备</li><li>相关推荐<ul><li>《剑指Offer》</li></ul></li></ul><h2 id="11-重来-Rework"><a href="#11-重来-Rework" class="headerlink" title="11) 重来 (Rework)"></a>11) 重来 (Rework)</h2><img class="book-list-image" src="../images/rework.jpg"><h2 id="12-软技能-Soft-Skills"><a href="#12-软技能-Soft-Skills" class="headerlink" title="12) 软技能 (Soft Skills)"></a>12) 软技能 (Soft Skills)</h2><h2 id="13-编码-Code"><a href="#13-编码-Code" class="headerlink" title="13) 编码 (Code)"></a>13) 编码 (Code)</h2><h2 id="14-算法导论-Introduction-to-Algorithms"><a href="#14-算法导论-Introduction-to-Algorithms" class="headerlink" title="14) 算法导论 (Introduction to Algorithms)"></a>14) 算法导论 (Introduction to Algorithms)</h2><ul><li>每一个程序员都有一颗攻破算法导论的心，大部分最后沦落为有心无力。</li><li>相关推荐<ul><li>《算法设计手册》</li></ul></li></ul><h2 id="15-人件-Peopleware"><a href="#15-人件-Peopleware" class="headerlink" title="15) 人件 (Peopleware)"></a>15) 人件 (Peopleware)</h2><h2 id="16-编程珠玑-Programming-Pearls"><a href="#16-编程珠玑-Programming-Pearls" class="headerlink" title="16) 编程珠玑 (Programming Pearls)"></a>16) 编程珠玑 (Programming Pearls)</h2><ul><li>感觉没有很多人吹得那么神，我自己看《编程之美》收获都比该书多。</li><li>相关推荐<ul><li>《编程之美》</li></ul></li></ul><h2 id="17-企业应用架构模式-Patterns-of-Enterprise-Application-Architecture"><a href="#17-企业应用架构模式-Patterns-of-Enterprise-Application-Architecture" class="headerlink" title="17) 企业应用架构模式 Patterns of Enterprise Application Architecture"></a>17) <a href="https://book.douban.com/subject/4826290//">企业应用架构模式</a> Patterns of Enterprise Application Architecture</h2><ul><li>相关推荐：<ul><li>《大型网站技术架构》李智慧</li><li>《构建高性能Web站点》郭欣</li></ul></li></ul><h2 id="18-计算机的构造与解析-Structure-and-Interpretation-of-Computer-Programs"><a href="#18-计算机的构造与解析-Structure-and-Interpretation-of-Computer-Programs" class="headerlink" title="18) 计算机的构造与解析 (Structure and Interpretation of Computer Programs)"></a>18) 计算机的构造与解析 (Structure and Interpretation of Computer Programs)</h2><h2 id="19-计算机程序设计艺术-The-Art-of-Computer-Programming"><a href="#19-计算机程序设计艺术-The-Art-of-Computer-Programming" class="headerlink" title="19) 计算机程序设计艺术 (The Art of Computer Programming)"></a>19) 计算机程序设计艺术 (The Art of Computer Programming)</h2><ul><li>久闻大名，但是没看过。</li></ul><h2 id="20-领域驱动设计-Domain-Driven-Design"><a href="#20-领域驱动设计-Domain-Driven-Design" class="headerlink" title="20) 领域驱动设计 (Domain-Driven Design)"></a>20) 领域驱动设计 (Domain-Driven Design)</h2><h2 id="21-编程人生-Coders-at-work"><a href="#21-编程人生-Coders-at-work" class="headerlink" title="21) 编程人生 (Coders at work)"></a>21) <a href="https://book.douban.com/subject/5355285/">编程人生</a> (Coders at work)</h2><h2 id="22-敏捷开发-Rapid-Development"><a href="#22-敏捷开发-Rapid-Development" class="headerlink" title="22) 敏捷开发 (Rapid Development)"></a>22) 敏捷开发 (Rapid Development)</h2><h2 id="23-Python编程无师自通—专业程序员的养成-The-Self-Taught-Programmer"><a href="#23-Python编程无师自通—专业程序员的养成-The-Self-Taught-Programmer" class="headerlink" title="23) Python编程无师自通—专业程序员的养成 (The Self-Taught Programmer)"></a>23) Python编程无师自通—专业程序员的养成 (The Self-Taught Programmer)</h2><h2 id="24-算法-Algorithms"><a href="#24-算法-Algorithms" class="headerlink" title="24) 算法 (Algorithms)"></a>24) 算法 (Algorithms)</h2><ul><li>五星推荐，最佳数据结构与算法入门书。</li></ul><h2 id="25-持续交付-Continuous-Delivery"><a href="#25-持续交付-Continuous-Delivery" class="headerlink" title="25) 持续交付 (Continuous Delivery)"></a>25) <a href="https://book.douban.com/subject/6862062/">持续交付</a> (Continuous Delivery)</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-程序员修炼之道-The-Pragmatic-Programmer&quot;&gt;&lt;a href=&quot;#1-程序员修炼之道-The-Pragmatic-Programmer&quot; class=&quot;headerlink&quot; title=&quot;1 程序员修炼之道 (The Pragmatic
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Python Books</title>
+    <link href="http://bestbooks.dev/best-python-books/"/>
+    <id>http://bestbooks.dev/best-python-books/</id>
+    <published>2020-08-08T02:52:26.000Z</published>
+    <updated>2020-08-08T08:42:08.899Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-Python-Cookbook"><a href="#1-Python-Cookbook" class="headerlink" title="1) Python Cookbook"></a>1) Python Cookbook</h2><table class="book-list-table"><tr>    <td>        <img class="book-list-image" src="https://images-na.ssl-images-amazon.com/images/I/51jrF94LNsL._SX379_BO1,204,203,200_.jpg">    </td>    <td class="book-comment">     </td></tr></table><h2 id="2-Learning-Python"><a href="#2-Learning-Python" class="headerlink" title="2) Learning Python"></a>2) Learning Python</h2><table class="book-list-table"><tr>    <td>       <img class="book-list-image" src="https://images-na.ssl-images-amazon.com/images/I/4109Y1VgveL._SX379_BO1,204,203,200_.jpg">    </td>    <td class="book-comment">     </td></tr></table><h2 id="3-Fluent-Python"><a href="#3-Fluent-Python" class="headerlink" title="3) Fluent Python"></a>3) Fluent Python</h2><table class="book-list-table"><tr>    <td>        <img class="book-list-image" src="https://images-na.ssl-images-amazon.com/images/I/41R+fNX-akL._SX379_BO1,204,203,200_.jpg">    </td>    <td class="book-comment">     </td></tr></table><h2 id="4-Python-Crash-Course"><a href="#4-Python-Crash-Course" class="headerlink" title="4) Python Crash Course"></a>4) Python Crash Course</h2><h2 id="5-Head-First-Python-A-Brain-Friendly-Guide"><a href="#5-Head-First-Python-A-Brain-Friendly-Guide" class="headerlink" title="5) Head First Python: A Brain-Friendly Guide"></a>5) Head First Python: A Brain-Friendly Guide</h2><h2 id="6-Automate-the-Boring-Stuff-with-Python"><a href="#6-Automate-the-Boring-Stuff-with-Python" class="headerlink" title="6) Automate the Boring Stuff with Python"></a>6) Automate the Boring Stuff with Python</h2><h2 id="7-Learn-Python-the-Hard-Way"><a href="#7-Learn-Python-the-Hard-Way" class="headerlink" title="7) Learn Python the Hard Way"></a>7) Learn Python the Hard Way</h2><h2 id="8-Python-for-Data-Analysis"><a href="#8-Python-for-Data-Analysis" class="headerlink" title="8) Python for Data Analysis"></a>8) Python for Data Analysis</h2><h2 id="9-Think-Python-How-to-Think-Like-a-Computer-Scientist"><a href="#9-Think-Python-How-to-Think-Like-a-Computer-Scientist" class="headerlink" title="9) Think Python: How to Think Like a Computer Scientist"></a>9) Think Python: How to Think Like a Computer Scientist</h2><h2 id="10-Effective-Python"><a href="#10-Effective-Python" class="headerlink" title="10) Effective Python"></a>10) Effective Python</h2><h2 id="11-Python-Machine-Learning"><a href="#11-Python-Machine-Learning" class="headerlink" title="11) Python Machine Learning"></a>11) Python Machine Learning</h2><table class="book-list-table"><tr>    <td>        <img class="book-list-image" src="https://uploads-ssl.webflow.com/5f280c5b57d2edfcbbb057ea/5f2849426f987c56722ed3f8_12.jpg">    </td>    <td class="book-comment">     </td></tr></table><h2 id="12-Python-Tricks"><a href="#12-Python-Tricks" class="headerlink" title="12) Python Tricks"></a>12) Python Tricks</h2><h2 id="13-Python-Essential-Reference"><a href="#13-Python-Essential-Reference" class="headerlink" title="13) Python Essential Reference"></a>13) Python Essential Reference</h2><h2 id="14-Dive-into-Python-3"><a href="#14-Dive-into-Python-3" class="headerlink" title="14) Dive into Python 3"></a>14) Dive into Python 3</h2><h2 id="15-Introduction-to-Machine-Learning-with-Python"><a href="#15-Introduction-to-Machine-Learning-with-Python" class="headerlink" title="15) Introduction to Machine Learning with Python"></a>15) Introduction to Machine Learning with Python</h2><h2 id="16-Programming-Python"><a href="#16-Programming-Python" class="headerlink" title="16) Programming Python"></a>16) Programming Python</h2><h2 id="17-Python-in-a-Nutshell"><a href="#17-Python-in-a-Nutshell" class="headerlink" title="17) Python in a Nutshell"></a>17) Python in a Nutshell</h2><h2 id="18-Python-Pocket-Reference"><a href="#18-Python-Pocket-Reference" class="headerlink" title="18) Python Pocket Reference"></a>18) Python Pocket Reference</h2><h2 id="19-Invent-Your-Own-Computer-Games-with-Python"><a href="#19-Invent-Your-Own-Computer-Games-with-Python" class="headerlink" title="19) Invent Your Own Computer Games with Python"></a>19) Invent Your Own Computer Games with Python</h2><h2 id="20-Natural-Language-Processing-with-Python"><a href="#20-Natural-Language-Processing-with-Python" class="headerlink" title="20) Natural Language Processing with Python"></a>20) Natural Language Processing with Python</h2><h2 id="21-The-Hitchhiker’s-Guide-to-Python"><a href="#21-The-Hitchhiker’s-Guide-to-Python" class="headerlink" title="21) The Hitchhiker’s Guide to Python"></a>21) The Hitchhiker’s Guide to Python</h2><h2 id="22-Violent-Python"><a href="#22-Violent-Python" class="headerlink" title="22) Violent Python"></a>22) Violent Python</h2><h2 id="23-Python-Learn-Python-in-One-Day-and-Learn-It-Well"><a href="#23-Python-Learn-Python-in-One-Day-and-Learn-It-Well" class="headerlink" title="23) Python: Learn Python in One Day and Learn It Well"></a>23) Python: Learn Python in One Day and Learn It Well</h2><h2 id="24-Deep-Learning-with-Python"><a href="#24-Deep-Learning-with-Python" class="headerlink" title="24) Deep Learning with Python"></a>24) Deep Learning with Python</h2><h2 id="25-Python-Data-Science-Handbook"><a href="#25-Python-Data-Science-Handbook" class="headerlink" title="25) Python Data Science Handbook"></a>25) Python Data Science Handbook</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-Python-Cookbook&quot;&gt;&lt;a href=&quot;#1-Python-Cookbook&quot; class=&quot;headerlink&quot; title=&quot;1) Python Cookbook&quot;&gt;&lt;/a&gt;1) Python Cookbook&lt;/h2&gt;&lt;table clas
+      
+    
+    </summary>
+    
+    
+    
+      <category term="python" scheme="http://bestbooks.dev/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Javascript</title>
+    <link href="http://bestbooks.dev/best-javascript-books/"/>
+    <id>http://bestbooks.dev/best-javascript-books/</id>
+    <published>2020-08-07T02:54:37.000Z</published>
+    <updated>2020-08-08T08:11:02.592Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="25-JavaScript-amp-jQuery-The-Missing-Manual"><a href="#25-JavaScript-amp-jQuery-The-Missing-Manual" class="headerlink" title="25) JavaScript &amp; jQuery: The Missing Manual"></a>25) JavaScript &amp; jQuery: The Missing Manual</h2><h2 id="24-Learn-JavaScript-VISUALLY"><a href="#24-Learn-JavaScript-VISUALLY" class="headerlink" title="24) Learn JavaScript VISUALLY"></a>24) Learn JavaScript VISUALLY</h2><h2 id="23-Learning-JavaScript-Design-Patterns"><a href="#23-Learning-JavaScript-Design-Patterns" class="headerlink" title="23) Learning JavaScript Design Patterns"></a>23) Learning JavaScript Design Patterns</h2><h2 id="22-Beginning-JavaScript-and-CSS-Development-with-jQuery"><a href="#22-Beginning-JavaScript-and-CSS-Development-with-jQuery" class="headerlink" title="22) Beginning JavaScript and CSS Development with jQuery"></a>22) Beginning JavaScript and CSS Development with jQuery</h2><h2 id="21-Learning-JavaScript"><a href="#21-Learning-JavaScript" class="headerlink" title="21) Learning JavaScript"></a>21) Learning JavaScript</h2><h2 id="20-Human-JavaScript"><a href="#20-Human-JavaScript" class="headerlink" title="20) Human JavaScript"></a>20) Human JavaScript</h2><h2 id="19-JavaScript-Programmer’s-Reference"><a href="#19-JavaScript-Programmer’s-Reference" class="headerlink" title="19) JavaScript Programmer’s Reference"></a>19) JavaScript Programmer’s Reference</h2><h2 id="18-A-Smarter-Way-to-Learn-JavaScript"><a href="#18-A-Smarter-Way-to-Learn-JavaScript" class="headerlink" title="18) A Smarter Way to Learn JavaScript"></a>18) A Smarter Way to Learn JavaScript</h2><h2 id="17-Head-First-JavaScript-Programming"><a href="#17-Head-First-JavaScript-Programming" class="headerlink" title="17) Head First JavaScript Programming"></a>17) Head First JavaScript Programming</h2><h2 id="16-Javascript-Allonge"><a href="#16-Javascript-Allonge" class="headerlink" title="16) Javascript Allongé"></a>16) Javascript Allongé</h2><h2 id="15-Exploring-ES2018-and-ES2019"><a href="#15-Exploring-ES2018-and-ES2019" class="headerlink" title="15) Exploring ES2018 and ES2019"></a>15) Exploring ES2018 and ES2019</h2><h2 id="14-JavaScript-Enlightenment"><a href="#14-JavaScript-Enlightenment" class="headerlink" title="14) JavaScript Enlightenment"></a>14) JavaScript Enlightenment</h2><h2 id="13-JavaScript-for-Kids"><a href="#13-JavaScript-for-Kids" class="headerlink" title="13) JavaScript for Kids"></a>13) JavaScript for Kids</h2><h2 id="12-Professional-JavaScript-for-Web-Developers"><a href="#12-Professional-JavaScript-for-Web-Developers" class="headerlink" title="12) Professional JavaScript for Web Developers"></a>12) Professional JavaScript for Web Developers</h2><h2 id="11-Programming-JavaScript-Applications"><a href="#11-Programming-JavaScript-Applications" class="headerlink" title="11) Programming JavaScript Applications"></a>11) Programming JavaScript Applications</h2><h2 id="10-Speaking-JavaScript"><a href="#10-Speaking-JavaScript" class="headerlink" title="10) Speaking JavaScript"></a>10) Speaking JavaScript</h2><h2 id="9-Beginning-JavaScript"><a href="#9-Beginning-JavaScript" class="headerlink" title="9) Beginning JavaScript"></a>9) Beginning JavaScript</h2><h2 id="8-The-Principles-of-Object-Oriented-JavaScript"><a href="#8-The-Principles-of-Object-Oriented-JavaScript" class="headerlink" title="8) The Principles of Object-Oriented JavaScript"></a>8) The Principles of Object-Oriented JavaScript</h2><h2 id="7-JavaScript-Patterns"><a href="#7-JavaScript-Patterns" class="headerlink" title="7) JavaScript Patterns"></a>7) JavaScript Patterns</h2><h2 id="6-JavaScript-and-JQuery-Interactive-Front-End-Web-Development"><a href="#6-JavaScript-and-JQuery-Interactive-Front-End-Web-Development" class="headerlink" title="6) JavaScript and JQuery: Interactive Front-End Web Development"></a>6) JavaScript and JQuery: Interactive Front-End Web Development</h2><h2 id="5-Secrets-of-the-JavaScript-Ninja"><a href="#5-Secrets-of-the-JavaScript-Ninja" class="headerlink" title="5) Secrets of the JavaScript Ninja"></a>5) Secrets of the JavaScript Ninja</h2><h2 id="4-Effective-JavaScript"><a href="#4-Effective-JavaScript" class="headerlink" title="4) Effective JavaScript"></a>4) Effective JavaScript</h2><h2 id="3-Eloquent-JavaScript"><a href="#3-Eloquent-JavaScript" class="headerlink" title="3) Eloquent JavaScript"></a>3) Eloquent JavaScript</h2><h2 id="2-You-Don’t-Know-JS-Book-Series"><a href="#2-You-Don’t-Know-JS-Book-Series" class="headerlink" title="2) You Don’t Know JS Book Series"></a>2) You Don’t Know JS Book Series</h2><h2 id="1-JavaScript权威指南-JavaScript-The-Definitive-Guide"><a href="#1-JavaScript权威指南-JavaScript-The-Definitive-Guide" class="headerlink" title="1) JavaScript权威指南 (JavaScript: The Definitive Guide)"></a>1) JavaScript权威指南 (JavaScript: The Definitive Guide)</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;25-JavaScript-amp-jQuery-The-Missing-Manual&quot;&gt;&lt;a href=&quot;#25-JavaScript-amp-jQuery-The-Missing-Manual&quot; class=&quot;headerlink&quot; title=&quot;25) Ja
+      
+    
+    </summary>
+    
+    
+    
+      <category term="javascript" scheme="http://bestbooks.dev/tags/javascript/"/>
+    
+      <category term="language" scheme="http://bestbooks.dev/tags/language/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>创业</title>
+    <link href="http://bestbooks.dev/best-startup-books/"/>
+    <id>http://bestbooks.dev/best-startup-books/</id>
+    <published>2020-08-06T02:54:47.000Z</published>
+    <updated>2020-08-08T09:29:49.179Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-精益创业-The-Lean-Startup"><a href="#1-精益创业-The-Lean-Startup" class="headerlink" title="1) 精益创业 (The Lean Startup)"></a>1) 精益创业 (The Lean Startup)</h2><h2 id="2-从0到1-Zero-To-One"><a href="#2-从0到1-Zero-To-One" class="headerlink" title="2) 从0到1 (Zero To One)"></a>2) 从0到1 (Zero To One)</h2><h2 id="3-创业维艰-The-Hard-Thing-About-Hard-Things"><a href="#3-创业维艰-The-Hard-Thing-About-Hard-Things" class="headerlink" title="3) 创业维艰 (The Hard Thing About Hard Things)"></a>3) 创业维艰 (The Hard Thing About Hard Things)</h2><h2 id="4-魔力创业-The-100-Startup"><a href="#4-魔力创业-The-100-Startup" class="headerlink" title="4) 魔力创业 (The $100 Startup)"></a>4) 魔力创业 (The $100 Startup)</h2><h2 id="5-人性的弱点-How-To-Win-Friends-and-Influence-People"><a href="#5-人性的弱点-How-To-Win-Friends-and-Influence-People" class="headerlink" title="5) 人性的弱点 (How To Win Friends and Influence People)"></a>5) 人性的弱点 (How To Win Friends and Influence People)</h2><h2 id="6-每周工作4小时-The-4-Hour-Workweek"><a href="#6-每周工作4小时-The-4-Hour-Workweek" class="headerlink" title="6) 每周工作4小时 The 4-Hour Workweek"></a>6) <a href="https://book.douban.com/subject/10786476/">每周工作4小时</a> The 4-Hour Workweek</h2><h2 id="7-创业必经的那些事-The-E-Myth-Revisited"><a href="#7-创业必经的那些事-The-E-Myth-Revisited" class="headerlink" title="7) 创业必经的那些事 (The E-Myth Revisited)"></a>7) <a href="https://book.douban.com/subject/5301299/">创业必经的那些事</a> (The E-Myth Revisited)</h2><h2 id="8-从优秀到卓越-Good-to-Great-Why-Some-Companies-Make-the-Leap-and-Others-Don’t"><a href="#8-从优秀到卓越-Good-to-Great-Why-Some-Companies-Make-the-Leap-and-Others-Don’t" class="headerlink" title="8) 从优秀到卓越 (Good to Great: Why Some Companies Make the Leap and Others Don’t)"></a>8) 从优秀到卓越 (Good to Great: Why Some Companies Make the Leap and Others Don’t)</h2><h2 id="9-思考致富-Think-and-Grow-Rich"><a href="#9-思考致富-Think-and-Grow-Rich" class="headerlink" title="9) 思考致富 (Think and Grow Rich)"></a>9) 思考致富 (Think and Grow Rich)</h2><h2 id="10-先问为什么-Start-with-Why"><a href="#10-先问为什么-Start-with-Why" class="headerlink" title="10) 先问为什么 (Start with Why)"></a>10) 先问为什么 (Start with Why)</h2><h2 id="12-高效能人士的七个习惯-The-7-Habits-of-Highly-Effective-People"><a href="#12-高效能人士的七个习惯-The-7-Habits-of-Highly-Effective-People" class="headerlink" title="12) 高效能人士的七个习惯 (The 7 Habits of Highly Effective People)"></a>12) 高效能人士的七个习惯 (The 7 Habits of Highly Effective People)</h2><h2 id="13）穷爸爸-富爸爸-Rich-Dad-Poor-Dad"><a href="#13）穷爸爸-富爸爸-Rich-Dad-Poor-Dad" class="headerlink" title="13）穷爸爸 富爸爸 (Rich Dad Poor Dad)"></a>13）穷爸爸 富爸爸 (Rich Dad Poor Dad)</h2><h2 id="14-拉新：快速实现用户增长-Traction"><a href="#14-拉新：快速实现用户增长-Traction" class="headerlink" title="14) 拉新：快速实现用户增长 (Traction)"></a>14) 拉新：快速实现用户增长 (Traction)</h2><ul><li>原著很一般，可以换成更符合国情的《运营之光》《参与感》《海底捞你学不会》等等</li></ul><h2 id="15-影响力-Influence-Science-and-Practice"><a href="#15-影响力-Influence-Science-and-Practice" class="headerlink" title="15) 影响力 (Influence: Science and Practice)"></a>15) 影响力 (Influence: Science and Practice)</h2><h2 id="16-巨人的工具-Tools-of-Titans-The-Tactics-Routines-and-Habits-of-Billionaires-Icons-and-World-Class-Performers"><a href="#16-巨人的工具-Tools-of-Titans-The-Tactics-Routines-and-Habits-of-Billionaires-Icons-and-World-Class-Performers" class="headerlink" title="16) 巨人的工具 (Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers)"></a>16) 巨人的工具 (Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers)</h2><h2 id="17-创业的艺术-Art-of-the-Start-2-0-The-Time-Tested-Battle-Hardened-Guide-for-Anyone-Starting-Anything"><a href="#17-创业的艺术-Art-of-the-Start-2-0-The-Time-Tested-Battle-Hardened-Guide-for-Anyone-Starting-Anything" class="headerlink" title="17) 创业的艺术 (Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything)"></a>17) 创业的艺术 (Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything)</h2><h2 id="18）创新者的窘境-The-Innovator’s-Dilemma-When-New-Technologies-Cause-Great-Firms-to-Fail"><a href="#18）创新者的窘境-The-Innovator’s-Dilemma-When-New-Technologies-Cause-Great-Firms-to-Fail" class="headerlink" title="18）创新者的窘境 (The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail)"></a>18）<a href="https://book.douban.com/subject/4243770/">创新者的窘境</a> (The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail)</h2><h2 id="19-钩瘾效应：创造习惯新商机-Hooked-A-Guide-to-Building-Habit-Forming-Products"><a href="#19-钩瘾效应：创造习惯新商机-Hooked-A-Guide-to-Building-Habit-Forming-Products" class="headerlink" title="19) 钩瘾效应：创造习惯新商机 (Hooked: A Guide to Building Habit-Forming Products)"></a>19) 钩瘾效应：创造习惯新商机 (Hooked: A Guide to Building Habit-Forming Products)</h2><h2 id="20-创业者-全世界最成功的技术公司初创的故事-Founders-at-Work-Stories-of-Startups’-Early-Days"><a href="#20-创业者-全世界最成功的技术公司初创的故事-Founders-at-Work-Stories-of-Startups’-Early-Days" class="headerlink" title="20) 创业者:全世界最成功的技术公司初创的故事 (Founders at Work: Stories of Startups’ Early Days)"></a>20) 创业者:全世界最成功的技术公司初创的故事 (Founders at Work: Stories of Startups’ Early Days)</h2><h2 id="21）习惯的力量-The-Power-of-Habit-Why-We-Do-What-We-Do-in-Life-and-Business"><a href="#21）习惯的力量-The-Power-of-Habit-Why-We-Do-What-We-Do-in-Life-and-Business" class="headerlink" title="21）习惯的力量 (The Power of Habit: Why We Do What We Do in Life and Business)"></a>21）习惯的力量 (The Power of Habit: Why We Do What We Do in Life and Business)</h2><h2 id="22-异类-不一样的成功启示录-Outliers-The-Story-of-Success"><a href="#22-异类-不一样的成功启示录-Outliers-The-Story-of-Success" class="headerlink" title="22) 异类:不一样的成功启示录 (Outliers: The Story of Success)"></a>22) 异类:不一样的成功启示录 (Outliers: The Story of Success)</h2><h2 id="23-紫牛-从默默无闻到与众不同-Purple-Cow-Transform-Your-Business-by-Being-Remarkable"><a href="#23-紫牛-从默默无闻到与众不同-Purple-Cow-Transform-Your-Business-by-Being-Remarkable" class="headerlink" title="23) 紫牛:从默默无闻到与众不同 (Purple Cow: Transform Your Business by Being Remarkable)"></a>23) 紫牛:从默默无闻到与众不同 (Purple Cow: Transform Your Business by Being Remarkable)</h2><h2 id="24-鞋狗-Shoe-Dog-A-Memoir-by-the-Creator-of-Nike"><a href="#24-鞋狗-Shoe-Dog-A-Memoir-by-the-Creator-of-Nike" class="headerlink" title="24) 鞋狗 (Shoe Dog: A Memoir by the Creator of Nike)"></a>24) 鞋狗 (Shoe Dog: A Memoir by the Creator of Nike)</h2><h2 id="25-想好了就豁出去-Delivering-Happiness-A-Path-to-Profits-Passion-and-Purpose"><a href="#25-想好了就豁出去-Delivering-Happiness-A-Path-to-Profits-Passion-and-Purpose" class="headerlink" title="25) 想好了就豁出去 (Delivering Happiness: A Path to Profits, Passion, and Purpose)"></a>25) 想好了就豁出去 (Delivering Happiness: A Path to Profits, Passion, and Purpose)</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-精益创业-The-Lean-Startup&quot;&gt;&lt;a href=&quot;#1-精益创业-The-Lean-Startup&quot; class=&quot;headerlink&quot; title=&quot;1) 精益创业 (The Lean Startup)&quot;&gt;&lt;/a&gt;1) 精益创业 (The L
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iOS Books</title>
+    <link href="http://bestbooks.dev/best-ios-books/"/>
+    <id>http://bestbooks.dev/best-ios-books/</id>
+    <published>2020-01-01T16:39:01.000Z</published>
+    <updated>2020-08-08T08:44:30.985Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Android Books</title>
+    <link href="http://bestbooks.dev/best-android-books/"/>
+    <id>http://bestbooks.dev/best-android-books/</id>
+    <published>2020-01-01T12:34:56.000Z</published>
+    <updated>2020-08-08T09:45:24.872Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux Books</title>
+    <link href="http://bestbooks.dev/best-linux-books/"/>
+    <id>http://bestbooks.dev/best-linux-books/</id>
+    <published>2020-01-01T12:34:56.000Z</published>
+    <updated>2020-08-08T09:44:17.287Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java Books</title>
+    <link href="http://bestbooks.dev/best-java-books/"/>
+    <id>http://bestbooks.dev/best-java-books/</id>
+    <published>2020-01-01T12:34:56.000Z</published>
+    <updated>2020-08-08T08:49:24.358Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ruby Books</title>
+    <link href="http://bestbooks.dev/best-ruby-books/"/>
+    <id>http://bestbooks.dev/best-ruby-books/</id>
+    <published>2020-01-01T12:34:56.000Z</published>
+    <updated>2020-08-08T09:45:38.126Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>more</title>
+    <link href="http://bestbooks.dev/more-books/"/>
+    <id>http://bestbooks.dev/more-books/</id>
+    <published>2020-01-01T01:33:31.000Z</published>
+    <updated>2020-08-08T09:44:17.299Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
